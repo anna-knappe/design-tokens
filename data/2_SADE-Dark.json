@@ -1,0 +1,92 @@
+{
+  "color": {
+    "fg": {
+      "default": {
+        "value": "{core.color.greyscale.20}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{core.color.greyscale.40}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{core.color.greyscale.100}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{core.color.greyscale.180}",
+        "type": "color"
+      }
+    },
+    "bg": {
+      "surface": {
+        "value": "{core.color.greyscale.200}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{core.color.greyscale.160}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{core.color.greyscale.120}",
+        "type": "color"
+      }
+    },
+    "cta": {
+      "default": {
+        "value": "{olm.color.secondary.100}",
+        "type": "color"
+      },
+      "emphasized": {
+        "value": "{olm.color.secondary.200}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{core.color.greyscale.120}",
+        "type": "color"
+      }
+    }
+  },
+  "alias": {
+    "color": {
+      "icon": {
+        "pos": {
+          "value": "{core.color.greyscale.20}",
+          "type": "color"
+        },
+        "neg": {
+          "value": "{core.color.greyscale.180}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "form": {
+          "input": {
+            "default": {
+              "value": "{core.color.greyscale.20}",
+              "type": "color"
+            },
+            "accent": {
+              "value": "{core.color.greyscale.80}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "background": {
+        "form": {
+          "input": {
+            "default": {
+              "value": "{core.color.greyscale.180}",
+              "type": "color"
+            },
+            "accent": {
+              "value": "{olm.color.secondary.100}",
+              "type": "color"
+            }
+          }
+        }
+      }
+    }
+  }
+}

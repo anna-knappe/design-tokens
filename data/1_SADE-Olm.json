@@ -1,0 +1,272 @@
+{
+  "olm": {
+    "color": {
+      "black": {
+        "value": "{core.color.greyscale.200}",
+        "type": "color"
+      },
+      "white": {
+        "value": "{core.color.greyscale.0}",
+        "type": "color"
+      },
+      "middlegrey": {
+        "value": "{core.color.greyscale.100}",
+        "type": "color"
+      },
+      "positive": {
+        "10": {
+          "value": "#CEE6E2",
+          "type": "color"
+        },
+        "25": {
+          "value": "#3B9D8C",
+          "type": "color"
+        },
+        "50": {
+          "value": "#0A846F",
+          "type": "color"
+        },
+        "75": {
+          "value": "#064F43",
+          "type": "color"
+        }
+      },
+      "negative": {
+        "10": {
+          "value": "#F8D5D9",
+          "type": "color"
+        },
+        "25": {
+          "value": "#E66D7B",
+          "type": "color"
+        },
+        "50": {
+          "value": "#DB2F42",
+          "type": "color"
+        },
+        "75": {
+          "value": "#831C28",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "10": {
+          "value": "#F7E2CE",
+          "type": "color"
+        },
+        "25": {
+          "value": "#E29853",
+          "type": "color"
+        },
+        "50": {
+          "value": "#D66C09",
+          "type": "color"
+        },
+        "75": {
+          "value": "#8A4707",
+          "type": "color"
+        }
+      },
+      "primary": {
+        "10": {
+          "value": "#FFE2FC",
+          "type": "color"
+        },
+        "50": {
+          "value": "#FFA4F9",
+          "type": "color"
+        },
+        "100": {
+          "value": "#FF00FF",
+          "type": "color",
+          "description": "Brand primary color default"
+        },
+        "200": {
+          "value": "#770087",
+          "type": "color",
+          "description": "Brand primary color dark"
+        }
+      },
+      "secondary": {
+        "10": {
+          "value": "#C9FFFC",
+          "type": "color"
+        },
+        "50": {
+          "value": "#9FFFFB",
+          "type": "color"
+        },
+        "100": {
+          "value": "#00FFFF",
+          "type": "color"
+        },
+        "200": {
+          "value": "#007E87",
+          "type": "color"
+        }
+      },
+      "tertiary": {
+        "10": {
+          "value": "#FDFFCD",
+          "type": "color"
+        },
+        "50": {
+          "value": "#FCFFA9",
+          "type": "color"
+        },
+        "100": {
+          "value": "#FFFF00",
+          "type": "color"
+        },
+        "200": {
+          "value": "#F9DD00",
+          "type": "color"
+        }
+      }
+    },
+    "typography": {
+      "heading": {
+        "XL": {
+          "value": {
+            "fontFamily": "{core.typography.font.family.roboto}",
+            "fontWeight": "{core.typography.font.weight.roboto.bold}",
+            "lineHeight": "134.4",
+            "fontSize": "96",
+            "letterSpacing": "-1"
+          },
+          "type": "typography",
+          "description": "Heading.XL"
+        },
+        "L": {
+          "value": {
+            "fontFamily": "{core.typography.font.family.roboto}",
+            "fontWeight": "{core.typography.font.weight.roboto.bold}",
+            "lineHeight": "84",
+            "fontSize": "60",
+            "letterSpacing": "0.5"
+          },
+          "type": "typography",
+          "description": "Heading.L"
+        },
+        "M": {
+          "value": {
+            "fontFamily": "{core.typography.font.family.roboto}",
+            "fontWeight": "{core.typography.font.weight.roboto.bold}",
+            "lineHeight": "67.2",
+            "fontSize": "48"
+          },
+          "type": "typography",
+          "description": "Heading.M"
+        },
+        "S": {
+          "value": {
+            "fontFamily": "{core.typography.font.family.roboto}",
+            "fontWeight": "SemiBold",
+            "lineHeight": "47.6",
+            "fontSize": "34",
+            "letterSpacing": "0.25"
+          },
+          "type": "typography",
+          "description": "Heading.S"
+        },
+        "XS": {
+          "value": {
+            "fontFamily": "{core.typography.font.family.roboto}",
+            "fontWeight": "SemiBold",
+            "lineHeight": "33.6",
+            "fontSize": "24"
+          },
+          "type": "typography",
+          "description": "Heading.XS"
+        }
+      },
+      "body": {
+        "default": {
+          "bold": {
+            "value": {
+              "fontFamily": "{core.typography.font.family.roboto}",
+              "fontWeight": "SemiBold",
+              "lineHeight": "33.6",
+              "fontSize": "16",
+              "letterSpacing": "0.15"
+            },
+            "type": "typography",
+            "description": "Body.Default.Bold"
+          },
+          "regular": {
+            "value": {
+              "fontFamily": "{core.typography.font.family.roboto}",
+              "fontWeight": "{core.typography.font.weight.roboto.regular}",
+              "lineHeight": "33.6",
+              "fontSize": "16",
+              "letterSpacing": "0.5"
+            },
+            "type": "typography",
+            "description": "Body.Default.Regular"
+          }
+        },
+        "small": {
+          "regular": {
+            "value": {
+              "fontFamily": "{core.typography.font.family.roboto}",
+              "fontWeight": "{core.typography.font.weight.roboto.regular}",
+              "lineHeight": "19.6",
+              "fontSize": "14",
+              "letterSpacing": "0.25"
+            },
+            "type": "typography",
+            "description": "Body.Small.Regular"
+          }
+        }
+      },
+      "button": {
+        "L": {
+          "value": {
+            "fontFamily": "{core.typography.font.family.roboto}",
+            "fontWeight": "SemiBold",
+            "lineHeight": "19.6",
+            "fontSize": "14",
+            "letterSpacing": "1.25"
+          },
+          "type": "typography",
+          "description": "Button.L"
+        },
+        "S": {
+          "value": {
+            "fontFamily": "{core.typography.font.family.roboto}",
+            "fontWeight": "SemiBold",
+            "lineHeight": "16.8",
+            "fontSize": "12",
+            "letterSpacing": "1.25"
+          },
+          "type": "typography",
+          "description": "Button.S"
+        }
+      },
+      "caption": {
+        "default": {
+          "value": {
+            "fontFamily": "{core.typography.font.family.roboto}",
+            "fontWeight": "{core.typography.font.weight.roboto.regular}",
+            "lineHeight": "16.8",
+            "fontSize": "12",
+            "letterSpacing": "0.4"
+          },
+          "type": "typography",
+          "description": "Caption.Default"
+        },
+        "italic": {
+          "value": {
+            "fontFamily": "{core.typography.font.family.roboto}",
+            "fontWeight": "{core.typography.font.weight.roboto.italic}",
+            "lineHeight": "16.8",
+            "fontSize": "12",
+            "letterSpacing": "0.4"
+          },
+          "type": "typography",
+          "description": "Caption.Italic"
+        }
+      }
+    }
+  }
+}
