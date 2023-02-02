@@ -1,0 +1,7 @@
+{
+  "tokenSetOrder": [
+    "1_Core",
+    "2_Alias",
+    "3_Component"
+  ]
+}

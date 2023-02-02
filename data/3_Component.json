@@ -1,0 +1,18 @@
+{
+  "component": {
+    "color": {
+      "background": {
+        "button": {
+          "value": "{alias.color.background}",
+          "type": "color"
+        }
+      },
+      "text": {
+        "button": {
+          "value": "{alias.color.foreground}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
