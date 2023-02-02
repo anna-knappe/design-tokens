@@ -1,0 +1,24 @@
+{
+  "figma": {
+    "radiobutton": {
+      "dot": {
+        "height": {
+          "value": "{component.size.height.radiobutton.default}/2",
+          "type": "sizing"
+        },
+        "width": {
+          "value": "{component.size.width.radiobutton.default}/2",
+          "type": "sizing"
+        }
+      }
+    },
+    "color": {
+      "background": {
+        "frame": {
+          "value": "{color.bg.surface}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

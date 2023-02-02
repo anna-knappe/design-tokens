@@ -1,0 +1,22 @@
+{
+  "alias": {
+    "radius": {
+      "form": {
+        "value": "{core.radius.5}",
+        "type": "borderRadius"
+      }
+    },
+    "size": {
+      "icon": {
+        "value": "12",
+        "type": "sizing"
+      }
+    },
+    "scale": {
+      "scaling": {
+        "value": "1",
+        "type": "other"
+      }
+    }
+  }
+}
