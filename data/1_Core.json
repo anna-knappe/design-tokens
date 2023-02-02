@@ -1,0 +1,14 @@
+{
+  "core": {
+    "color": {
+      "black": {
+        "value": "#000",
+        "type": "color"
+      },
+      "white": {
+        "value": "#FFFFFF",
+        "type": "color"
+      }
+    }
+  }
+}

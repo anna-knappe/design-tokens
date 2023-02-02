@@ -1,15 +1,8 @@
 {
   "tokenSetOrder": [
-    "1_SADE-Core",
-    "1_SADE-Olm",
-    "1_OS-Global",
-    "2_SADE_alias",
-    "2_SADE-Light",
-    "2_SADE-Dark",
-    "2_SADE-Desktop",
-    "2_SADE-Mobile",
-    "3_SADE-Component",
-    "1_B2B-Global",
-    "3_Figma"
+    "1_Core",
+    "2_Alias_Light",
+    "2_Alias_Dark",
+    "3_Component_Button"
   ]
 }
