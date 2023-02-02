@@ -1,7 +1,8 @@
 {
   "tokenSetOrder": [
     "1_Core",
-    "2_Alias",
-    "3_Component"
+    "2_Alias_Light",
+    "2_Alias_Dark",
+    "3_Component_Button"
   ]
 }
