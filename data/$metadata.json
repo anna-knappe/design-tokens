@@ -2,6 +2,7 @@
   "tokenSetOrder": [
     "1_Core",
     "2_Alias_Light",
+    "brand",
     "2_Alias_Dark",
     "3_Component_Button"
   ]
